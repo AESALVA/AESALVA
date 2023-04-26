@@ -1,4 +1,4 @@
-### Hi there 👋I am Eduardo Salva
+### 👋 I am Eduardo Salva
 
 This repository is where I store personal projects and code samples, as well as some exercises and projects that I've developed as part of my programming training.
 
