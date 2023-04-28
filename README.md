@@ -2,4 +2,8 @@
 
 This repository is where I store personal projects and code samples, as well as some exercises and projects that I've developed as part of my programming training.
 
-If you have any questions or suggestions about any of my projects, do not hesitate to contact me through my email:  eduardo_salva@hotmail.com
+If you have any questions or suggestions, feel free to contact me. I love collaborating with other developers and learning from their experiences.
+
+Thank you for visiting!
+
+
